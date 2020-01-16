@@ -3,7 +3,7 @@ layout: post
 title:  "Introduction"
 author: andrea
 categories: [ hello, welcome ]
-image: assets/images/s2000-1.jpg
+image: assets/images/s2000_1.jpg
 featured: true
 ---
 
