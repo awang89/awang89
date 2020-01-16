@@ -6,7 +6,6 @@ categories: [ welcome, hello ]
 tags: [red, yellow]
 image: assets/images/11.jpg
 description: "Welcome to my site. Feel free to browse through everything!"
-featured: true
 hidden: true
 rating: 4.5
 ---
