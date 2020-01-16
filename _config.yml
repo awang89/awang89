@@ -16,8 +16,11 @@ authors:
   andrea:
     name: Andrea
     display_name: Andrea
-    avatar: 'assets/images/avatar.jpg"
+    avatar: 'assets/images/avatar.jpg'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: wowthemesnet@gmail.com
     web: https://awang89.github.io/awang89/
+    twitter: https://twitter.com/wowthemesnet
     description: "I'm Andrea. I don't always go out all that much, so keeping up a blob sounds kind of fun"
 
 # Plugins
