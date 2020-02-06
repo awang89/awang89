@@ -17,6 +17,8 @@ Music - I've played piano for a long time, though I'm not the most disciplined o
 
 Programming - These are for the side projects I do at home if I'm determined enough to finish them.
 
+Drinks - For drink experiments with my collection of alcohol. I definitely buy much faster than I can consume.
+
 Misc - Travel, musing, whatever comes to mind. I suppose that'll likely be most of this.
 
 ```
